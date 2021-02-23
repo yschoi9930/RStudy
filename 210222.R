@@ -148,4 +148,53 @@ country_factor<-factor(country)
 levels(country_factor)
 as.integer(country_factor)
 
+h.list<-c('balling','tennis','ski')
+person <-list(name='Tom', age=25,student=TRUE, hobby=h.list)
+person$hobby[1:2]
 
+cafe<-list(espresso=c(4,5,3,6,5,4,7), 
+           americano=c(63,68,64,68,72,89,94), 
+           latte=c(61,70,59,71,71,92,88),
+           price=c(2.0,2.5,3.0),
+           menu =c('espresso','americano','latte'))
+
+cafe$price
+cafe$menu<-factor(cafe$menu)
+
+cafe
+
+cars
+
+str(cars)
+
+dim(cars)
+
+head(cars, n=10)
+
+summary(cars)
+
+colMeans(cars)
+
+max(cars$dist)
+
+a<-subset(cars, dist==max(dist)); a
+
+is.matrix(InsectSprays)
+
+class(InsectSprays)
+
+tail(InsectSprays)
+
+levels(InsectSprays$spray)
+
+sum(levels(InsectSprays$spray))
+
+summary(InsectSprays$spray)
+
+table(InsectSprays$spray)
+
+InspectSprays.e <- subset(InsectSprays, spray=='E') ; InspectSprays.e
+
+mean(InspectSprays.e$count)
+
+ls()
