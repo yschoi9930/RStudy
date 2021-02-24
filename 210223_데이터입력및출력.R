@@ -140,3 +140,11 @@ for (i in 1:norow) {
 
 new<-data.frame(iris,lb)
 head(new)
+
+x<-data.frame(a=c(1,2,3), b=c('a',NA,"c"), c=c(2,3,NA))
+x
+
+na.fail(x)
+na.omit(x)
+na.exclude(x)
+na.pass(x)
