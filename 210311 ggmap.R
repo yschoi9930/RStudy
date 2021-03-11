@@ -13,7 +13,7 @@ install_github("dkahle/ggmap")
 
 # 구글맵 사용 방법
 # 1. google API 키 등록
-register_google(key='AIzaSyCOgmf5KZZ19kjxRBLsZUnEpqRfNXrqdTk')
+register_google(key='')
 
 # 구글 지도 가져오기 : 구글 서버에 요청을 보낸다
 # get_googlemap ('기준위치', zoom 정보(생략가능), 지도종류(생략가능))
