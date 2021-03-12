@@ -49,8 +49,9 @@ get_googlemap("대전역", maptype = "roadmap", zoom =13) %>% ggmap() +
 get_googlemap("seoul", maptype = "roadmap", zoom =13) %>% ggmap() +
   geom_point(data=geocode('경복궁'),
              aes(x=lon,y=lat),
-             size=5)
+             size=5) +
 
+  
 
 
 

@@ -43,3 +43,7 @@ line2code <- finalcode %>% filter(호선 %in% c(2))
 View(line2code)
 
 write.csv(line2code, 'line2code')
+
+write.csv
+
+apart<-

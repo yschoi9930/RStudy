@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<전통시장상점현황>
+  <row>
+    <STORE_NM>점포명</STORE_NM>
+    <CLASS_NM>분류명</CLASS_NM>
+    <RM>주소</RM>
+  </row>
+  <row>
+    <STORE_NM>일번지청과</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 158-36</RM>
+  </row>
+  <row>
+    <STORE_NM>서광과일</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 158-15</RM>
+  </row>
+  <row>
+    <STORE_NM>영등포청과</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 140-12</RM>
+  </row>
+  <row>
+    <STORE_NM>광명과일</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 138-4</RM>
+  </row>
+  <row>
+    <STORE_NM>4050과일</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>대주상회</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>이동청과</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 158-22</RM>
+  </row>
+  <row>
+    <STORE_NM>원앙청과</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 136-17</RM>
+  </row>
+  <row>
+    <STORE_NM>풍년과일</STORE_NM>
+    <CLASS_NM>과일</CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>설화상회</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>자매수예</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>꽃향기(꽃집)</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명로918번길 6</RM>
+  </row>
+  <row>
+    <STORE_NM>자이화장품</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-36</RM>
+  </row>
+  <row>
+    <STORE_NM>하나생활용품</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-1370</RM>
+  </row>
+  <row>
+    <STORE_NM>우정포장</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 140-8</RM>
+  </row>
+  <row>
+    <STORE_NM>웰빙천원마트</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-58</RM>
+  </row>
+  <row>
+    <STORE_NM>정운사</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 140-8</RM>
+  </row>
+  <row>
+    <STORE_NM>뷰티마트화장품</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>토니모리화장품</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 오리로 976</RM>
+  </row>
+  <row>
+    <STORE_NM>명금당</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 136-18</RM>
+  </row>
+  <row>
+    <STORE_NM>곰할인마트</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 136-19</RM>
+  </row>
+  <row>
+    <STORE_NM>액세서리</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-33</RM>
+  </row>
+  <row>
+    <STORE_NM>길까페(이동커피)</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동158-50</RM>
+  </row>
+  <row>
+    <STORE_NM>새마을금고</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>새마을종합설비</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-13</RM>
+  </row>
+  <row>
+    <STORE_NM>주신푸드</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-28</RM>
+  </row>
+  <row>
+    <STORE_NM>베르니아화장품</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>자유마트</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>백두산여행사</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-84</RM>
+  </row>
+  <row>
+    <STORE_NM>충남주방</STORE_NM>
+    <CLASS_NM>기타</CLASS_NM>
+    <RM>광명시 광명3동 158-19</RM>
+  </row>
+  <row>
+    <STORE_NM>구천야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-64</RM>
+  </row>
+  <row>
+    <STORE_NM>재경야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 141-3</RM>
+  </row>
+  <row>
+    <STORE_NM>오복상회</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-46</RM>
+  </row>
+  <row>
+    <STORE_NM>대지상회</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>푸른미나리상회(쌀,곡물)</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>왔다야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 136-13</RM>
+  </row>
+  <row>
+    <STORE_NM>풍년상회</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-37</RM>
+  </row>
+  <row>
+    <STORE_NM>군산상회</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-37</RM>
+  </row>
+  <row>
+    <STORE_NM>황금씨앗</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 136-19</RM>
+  </row>
+  <row>
+    <STORE_NM>안심한우야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 136 - 10</RM>
+  </row>
+  <row>
+    <STORE_NM>충북상회</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-42</RM>
+  </row>
+  <row>
+    <STORE_NM>유섭야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>광명묵</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-1319</RM>
+  </row>
+  <row>
+    <STORE_NM>은영야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-22</RM>
+  </row>
+  <row>
+    <STORE_NM>대성상회</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-22</RM>
+  </row>
+  <row>
+    <STORE_NM>고모네야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-35</RM>
+  </row>
+  <row>
+    <STORE_NM>광명상회 옆 야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-36</RM>
+  </row>
+  <row>
+    <STORE_NM>영민네신토불이</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 140-11</RM>
+  </row>
+  <row>
+    <STORE_NM>신나라야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 136-21</RM>
+  </row>
+  <row>
+    <STORE_NM>천하태평</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-1306</RM>
+  </row>
+  <row>
+    <STORE_NM>나나야채</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>야채일번지</STORE_NM>
+    <CLASS_NM>농산물</CLASS_NM>
+    <RM>광명시 광명3동 158-1370</RM>
+  </row>
+  <row>
+    <STORE_NM>대박수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 140-18</RM>
+  </row>
+  <row>
+    <STORE_NM>광명민물수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-40</RM>
+  </row>
+  <row>
+    <STORE_NM>세명수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-41</RM>
+  </row>
+  <row>
+    <STORE_NM>똘이수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-42</RM>
+  </row>
+  <row>
+    <STORE_NM>돈벼락수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-35</RM>
+  </row>
+  <row>
+    <STORE_NM>소래포구</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-42</RM>
+  </row>
+  <row>
+    <STORE_NM>형제수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>호남상회</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>홍성해물</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-1306</RM>
+  </row>
+  <row>
+    <STORE_NM>대원상회</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>광명수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>정진상회</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 158-24</RM>
+  </row>
+  <row>
+    <STORE_NM>은희수산</STORE_NM>
+    <CLASS_NM>수산물</CLASS_NM>
+    <RM>광명시 광명3동 140-8</RM>
+  </row>
+  <row>
+    <STORE_NM>거북이인삼약초직매장</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-25</RM>
+  </row>
+  <row>
+    <STORE_NM>광명제일유통</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-30</RM>
+  </row>
+  <row>
+    <STORE_NM>영동건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-36</RM>
+  </row>
+  <row>
+    <STORE_NM>민속두부</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-1395</RM>
+  </row>
+  <row>
+    <STORE_NM>불로건강원</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-1306</RM>
+  </row>
+  <row>
+    <STORE_NM>믿음약초</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-1320</RM>
+  </row>
+  <row>
+    <STORE_NM>온정상회(계란)</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-1320</RM>
+  </row>
+  <row>
+    <STORE_NM>형제건강원</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-1156</RM>
+  </row>
+  <row>
+    <STORE_NM>충남상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-34</RM>
+  </row>
+  <row>
+    <STORE_NM>신촌순대곱창</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>못난이왕만두도너츠</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>금산고려인삼직매점</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>상원상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>의정부부대찌개</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>우정상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>중앙방앗간</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 140-9</RM>
+  </row>
+  <row>
+    <STORE_NM>청해건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>된장할아버지</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>하나상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-33</RM>
+  </row>
+  <row>
+    <STORE_NM>화영식품 (즉석촌두부)</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>즉석구이광천김</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-63</RM>
+  </row>
+  <row>
+    <STORE_NM>홍삼종합백화점</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-52</RM>
+  </row>
+  <row>
+    <STORE_NM>쌍둥이네건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-42</RM>
+  </row>
+  <row>
+    <STORE_NM>신광명건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-40</RM>
+  </row>
+  <row>
+    <STORE_NM>옥설선식</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-39</RM>
+  </row>
+  <row>
+    <STORE_NM>사.생.강 제과</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>경북건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-47</RM>
+  </row>
+  <row>
+    <STORE_NM>부산즉석어묵</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 136-14</RM>
+  </row>
+  <row>
+    <STORE_NM>옛날통닭</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 136-12</RM>
+  </row>
+  <row>
+    <STORE_NM>충남상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-63</RM>
+  </row>
+  <row>
+    <STORE_NM>천하일미닭강정</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 오리로 964번길 14-1</RM>
+  </row>
+  <row>
+    <STORE_NM>우정상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>광명국수공장</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-13</RM>
+  </row>
+  <row>
+    <STORE_NM>쌍둥이빈대떡</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-24</RM>
+  </row>
+  <row>
+    <STORE_NM>쌍둥이만두</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-24</RM>
+  </row>
+  <row>
+    <STORE_NM>대도상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-67</RM>
+  </row>
+  <row>
+    <STORE_NM>홍가네반찬(건어물)</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>융창청과</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-72</RM>
+  </row>
+  <row>
+    <STORE_NM>미래건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 138-3</RM>
+  </row>
+  <row>
+    <STORE_NM>남해김집</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-21</RM>
+  </row>
+  <row>
+    <STORE_NM>대도상회</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-20</RM>
+  </row>
+  <row>
+    <STORE_NM>중앙참기름</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-20</RM>
+  </row>
+  <row>
+    <STORE_NM>광명할머니왕족발</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-19</RM>
+  </row>
+  <row>
+    <STORE_NM>현아네건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-81</RM>
+  </row>
+  <row>
+    <STORE_NM>우리동네두부집</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 138-5</RM>
+  </row>
+  <row>
+    <STORE_NM>새서울참기름집</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 150-16</RM>
+  </row>
+  <row>
+    <STORE_NM>정희네건어물</STORE_NM>
+    <CLASS_NM>식품</CLASS_NM>
+    <RM>광명시 광명3동 158-16</RM>
+  </row>
+  <row>
+    <STORE_NM>예당떡마을</STORE_NM>
+    <CLASS_NM>식품(떡)</CLASS_NM>
+    <RM>광명시 광명3동 158-21</RM>
+  </row>
+  <row>
+    <STORE_NM>오뚜기떡집</STORE_NM>
+    <CLASS_NM>식품(떡)</CLASS_NM>
+    <RM>광명시 광명3동 139-22</RM>
+  </row>
+  <row>
+    <STORE_NM>행복떡집</STORE_NM>
+    <CLASS_NM>식품(떡)</CLASS_NM>
+    <RM>광명시 광명3동 136-12</RM>
+  </row>
+  <row>
+    <STORE_NM>종로떡집</STORE_NM>
+    <CLASS_NM>식품(떡)</CLASS_NM>
+    <RM>광명시 광명3동 158-23</RM>
+  </row>
+  <row>
+    <STORE_NM>인사동떡집</STORE_NM>
+    <CLASS_NM>식품(떡)</CLASS_NM>
+    <RM>광명시 광명3동 40-19</RM>
+  </row>
+  <row>
+    <STORE_NM>궁중떡집</STORE_NM>
+    <CLASS_NM>식품(떡)</CLASS_NM>
+    <RM>광명시 광명3동 138-6</RM>
+  </row>
+  <row>
+    <STORE_NM>미전반찬</STORE_NM>
+    <CLASS_NM>식품(반찬)</CLASS_NM>
+    <RM>광명시 광명3동 158-19</RM>
+  </row>
+  <row>
+    <STORE_NM>윤씨네젓갈</STORE_NM>
+    <CLASS_NM>식품(반찬)</CLASS_NM>
+    <RM>광명시 광명3동 158-1006</RM>
+  </row>
+  <row>
+    <STORE_NM>찬!찬!찬! 반찬</STORE_NM>
+    <CLASS_NM>식품(반찬)</CLASS_NM>
+    <RM>광명시 광명3동 136-18</RM>
+  </row>
+  <row>
+    <STORE_NM>홍가네반찬</STORE_NM>
+    <CLASS_NM>식품(반찬)</CLASS_NM>
+    <RM>광명시 오리로 974</RM>
+  </row>
+  <row>
+    <STORE_NM>봉자네순대국</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 136-15</RM>
+  </row>
+  <row>
+    <STORE_NM>유명순대국</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 138-2</RM>
+  </row>
+  <row>
+    <STORE_NM>춘자네</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 140-9</RM>
+  </row>
+  <row>
+    <STORE_NM>강화빈대떡</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-65</RM>
+  </row>
+  <row>
+    <STORE_NM>자매네</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 140-9</RM>
+  </row>
+  <row>
+    <STORE_NM>서울마님죽</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-21</RM>
+  </row>
+  <row>
+    <STORE_NM>옥이네순대국</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-1375</RM>
+  </row>
+  <row>
+    <STORE_NM>원조튀김</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-21</RM>
+  </row>
+  <row>
+    <STORE_NM>원조광명할머니빈대떡</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 140-10</RM>
+  </row>
+  <row>
+    <STORE_NM>삼대왕족발</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-66</RM>
+  </row>
+  <row>
+    <STORE_NM>오복식당</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 140-10</RM>
+  </row>
+  <row>
+    <STORE_NM>회랑조개랑</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-20</RM>
+  </row>
+  <row>
+    <STORE_NM>삼성생선구이</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>엄마손식당</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-1149</RM>
+  </row>
+  <row>
+    <STORE_NM>원조25년전통광명할머니빈대떡</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-25</RM>
+  </row>
+  <row>
+    <STORE_NM>뚱보냉면</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-18</RM>
+  </row>
+  <row>
+    <STORE_NM>옛날뚱보냉면</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>홍두깨칼국수</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 138-6</RM>
+  </row>
+  <row>
+    <STORE_NM>송희네부침개</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 140-16</RM>
+  </row>
+  <row>
+    <STORE_NM>별미집</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-1149</RM>
+  </row>
+  <row>
+    <STORE_NM>마니보쌈족발</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 136-16</RM>
+  </row>
+  <row>
+    <STORE_NM>주가네명품족발</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-23</RM>
+  </row>
+  <row>
+    <STORE_NM>별미식당</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-1344</RM>
+  </row>
+  <row>
+    <STORE_NM>공주식당</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-55</RM>
+  </row>
+  <row>
+    <STORE_NM>서당골</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명로918번길 11-1</RM>
+  </row>
+  <row>
+    <STORE_NM>작은둥지</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>이레분식</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-1172</RM>
+  </row>
+  <row>
+    <STORE_NM>대박갈비탕</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>짱구식당</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 139-22</RM>
+  </row>
+  <row>
+    <STORE_NM>동해회센터</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 136-12</RM>
+  </row>
+  <row>
+    <STORE_NM>이모네왕대포</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>장터해장국</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-55</RM>
+  </row>
+  <row>
+    <STORE_NM>전주식당</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-55</RM>
+  </row>
+  <row>
+    <STORE_NM>목포순대곱창</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 136-16</RM>
+  </row>
+  <row>
+    <STORE_NM>소문난가마솥순대</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-58</RM>
+  </row>
+  <row>
+    <STORE_NM>명품짜장</STORE_NM>
+    <CLASS_NM>음식점</CLASS_NM>
+    <RM>광명시 광명3동 158-24</RM>
+  </row>
+  <row>
+    <STORE_NM>광명BYC(신진상회)</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 40-19</RM>
+  </row>
+  <row>
+    <STORE_NM>갈보리숙녀복</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-79</RM>
+  </row>
+  <row>
+    <STORE_NM>자연바람풍기인견집</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-1006</RM>
+  </row>
+  <row>
+    <STORE_NM>개나리상가</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-64</RM>
+  </row>
+  <row>
+    <STORE_NM>시대패션</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-75</RM>
+  </row>
+  <row>
+    <STORE_NM>수입브랜드</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명3동 158-80</RM>
+  </row>
+  <row>
+    <STORE_NM>명동수입상품</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-1006</RM>
+  </row>
+  <row>
+    <STORE_NM>크로바가방</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-80</RM>
+  </row>
+  <row>
+    <STORE_NM>비너스</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-66</RM>
+  </row>
+  <row>
+    <STORE_NM>공룡발</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-74</RM>
+  </row>
+  <row>
+    <STORE_NM>속옷아울렛</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-81</RM>
+  </row>
+  <row>
+    <STORE_NM>명동의류</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 139-7</RM>
+  </row>
+  <row>
+    <STORE_NM>길미</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-27</RM>
+  </row>
+  <row>
+    <STORE_NM>광명쌍방울</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-65</RM>
+  </row>
+  <row>
+    <STORE_NM>광명BYC전문점</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>사계절유통</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-33</RM>
+  </row>
+  <row>
+    <STORE_NM>구제나라</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-46</RM>
+  </row>
+  <row>
+    <STORE_NM>구정주단</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동158-50</RM>
+  </row>
+  <row>
+    <STORE_NM>구제ing</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-1319</RM>
+  </row>
+  <row>
+    <STORE_NM>BYC</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-40</RM>
+  </row>
+  <row>
+    <STORE_NM>중앙의류</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>태창한복</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>잔디의상실</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>동아상회</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>우리옷가게</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-25</RM>
+  </row>
+  <row>
+    <STORE_NM>경현네</STORE_NM>
+    <CLASS_NM>의류잡화</CLASS_NM>
+    <RM>광명시 광명3동 158-77</RM>
+  </row>
+  <row>
+    <STORE_NM>명조닭집</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 158-32</RM>
+  </row>
+  <row>
+    <STORE_NM>경남정육점</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 158-46</RM>
+  </row>
+  <row>
+    <STORE_NM>하나로축산</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 138-2</RM>
+  </row>
+  <row>
+    <STORE_NM>꼬꼬나라</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 158-63</RM>
+  </row>
+  <row>
+    <STORE_NM>대우축산</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 158-41</RM>
+  </row>
+  <row>
+    <STORE_NM>시민닭집</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 136-11</RM>
+  </row>
+  <row>
+    <STORE_NM>농심축산</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명로 906</RM>
+  </row>
+  <row>
+    <STORE_NM>협진축산물도매센타</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 138-7</RM>
+  </row>
+  <row>
+    <STORE_NM>새서울정육점</STORE_NM>
+    <CLASS_NM>축산물</CLASS_NM>
+    <RM>광명시 광명3동 158-14</RM>
+  </row>
+  <row>
+    <STORE_NM>님프만</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 158-73</RM>
+  </row>
+  <row>
+    <STORE_NM>정이모아</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 140-7</RM>
+  </row>
+  <row>
+    <STORE_NM>춘천주단</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 158-55</RM>
+  </row>
+  <row>
+    <STORE_NM>왕실침구커텐</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 158-59</RM>
+  </row>
+  <row>
+    <STORE_NM>호남혼수방</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 158-1006</RM>
+  </row>
+  <row>
+    <STORE_NM>우리방홈패션</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 139-7</RM>
+  </row>
+  <row>
+    <STORE_NM>서광혼수</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 158-42</RM>
+  </row>
+  <row>
+    <STORE_NM>제일침구</STORE_NM>
+    <CLASS_NM>침구류</CLASS_NM>
+    <RM>광명시 광명3동 158-1172</RM>
+  </row>
+  <row>
+    <STORE_NM>고현미 주단</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>어울림</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>내고향금산인삼약초</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광이로13번길 21-5</RM>
+  </row>
+  <row>
+    <STORE_NM>오월에 숲</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-55</RM>
+  </row>
+  <row>
+    <STORE_NM>옥이네건어물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>소문난왕족발</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>우리농산물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-57</RM>
+  </row>
+  <row>
+    <STORE_NM>기능성 속옷</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-57</RM>
+  </row>
+  <row>
+    <STORE_NM>죽선생</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-57</RM>
+  </row>
+  <row>
+    <STORE_NM>항아리꽃집</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-10</RM>
+  </row>
+  <row>
+    <STORE_NM>조으면짜장면(짜장중독)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광이로13번길 21</RM>
+  </row>
+  <row>
+    <STORE_NM>항아리청과</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-10</RM>
+  </row>
+  <row>
+    <STORE_NM>할머니야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>광명상회(5구간 반찬)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1375</RM>
+  </row>
+  <row>
+    <STORE_NM>찹쌀꽈배기</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>옥이네야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>해성얼음</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>준영이네야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>사탕.과자</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>온양야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>두부야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>삼성전자앞 야채(혜진)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>리치</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>노점바퀴벌레약(이동)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>하나은행앞야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-72</RM>
+  </row>
+  <row>
+    <STORE_NM>인선네커피(이동커피)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>구슬이네(이동커피)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>주문진수산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-67</RM>
+  </row>
+  <row>
+    <STORE_NM>남매분식</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-58</RM>
+  </row>
+  <row>
+    <STORE_NM>박가두부</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1374</RM>
+  </row>
+  <row>
+    <STORE_NM>오복주단</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>한진그릇</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>이가네호떡(중국식)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>진도식당</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-9</RM>
+  </row>
+  <row>
+    <STORE_NM>함초닭곰탕</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-9</RM>
+  </row>
+  <row>
+    <STORE_NM>새올커텐</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-51</RM>
+  </row>
+  <row>
+    <STORE_NM>부부이불</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광이로13번길 17-5</RM>
+  </row>
+  <row>
+    <STORE_NM>이모네맛집</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-31</RM>
+  </row>
+  <row>
+    <STORE_NM>마장동정육점</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광이로 13번길 22-1</RM>
+  </row>
+  <row>
+    <STORE_NM>남도맛집</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>행복꽃집</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-37</RM>
+  </row>
+  <row>
+    <STORE_NM>삼천리 상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-32</RM>
+  </row>
+  <row>
+    <STORE_NM>화진이네김치</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-37</RM>
+  </row>
+  <row>
+    <STORE_NM>현미와 누룽지</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광이로13번길 20</RM>
+  </row>
+  <row>
+    <STORE_NM>갈비탕</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>번영상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>중국식품전문점</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-37</RM>
+  </row>
+  <row>
+    <STORE_NM>골목야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>황금반찬</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-35</RM>
+  </row>
+  <row>
+    <STORE_NM>금매입</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1319</RM>
+  </row>
+  <row>
+    <STORE_NM>인광이네야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1319</RM>
+  </row>
+  <row>
+    <STORE_NM>갯마을 수산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>우리상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-33</RM>
+  </row>
+  <row>
+    <STORE_NM>화진식당</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>이수미잔치국수</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-51</RM>
+  </row>
+  <row>
+    <STORE_NM>시장꽃집</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>태후사랑(천연염색)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1172</RM>
+  </row>
+  <row>
+    <STORE_NM>노점 보영야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-9</RM>
+  </row>
+  <row>
+    <STORE_NM>부부수예</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1172</RM>
+  </row>
+  <row>
+    <STORE_NM>오복건어물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>라파</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>광명별미냉면</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-49</RM>
+  </row>
+  <row>
+    <STORE_NM>은주네한복</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-50</RM>
+  </row>
+  <row>
+    <STORE_NM>삼성생선구이 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>정가네 야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-5</RM>
+  </row>
+  <row>
+    <STORE_NM>이시연의상실</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-50</RM>
+  </row>
+  <row>
+    <STORE_NM>묵은지찌개</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-5</RM>
+  </row>
+  <row>
+    <STORE_NM>춘자네부대찌개앞 호떡</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-5</RM>
+  </row>
+  <row>
+    <STORE_NM>광명전통한과</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-11</RM>
+  </row>
+  <row>
+    <STORE_NM>오미식당</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>묵은지김치찌개</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>미스고순대국</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 141-11</RM>
+  </row>
+  <row>
+    <STORE_NM>소라이불</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-51</RM>
+  </row>
+  <row>
+    <STORE_NM>어사출도</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로 964</RM>
+  </row>
+  <row>
+    <STORE_NM>씨티클럽</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-76</RM>
+  </row>
+  <row>
+    <STORE_NM>창수네건어물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명로 910</RM>
+  </row>
+  <row>
+    <STORE_NM>노랑꽈배기</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-2</RM>
+  </row>
+  <row>
+    <STORE_NM>에이스이불집</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-21</RM>
+  </row>
+  <row>
+    <STORE_NM>누렁이김밥</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>누렁이한우</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-4</RM>
+  </row>
+  <row>
+    <STORE_NM>빵굽는 동네</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-20</RM>
+  </row>
+  <row>
+    <STORE_NM>어사또</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-5</RM>
+  </row>
+  <row>
+    <STORE_NM>홍두깨앞호떡</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-5</RM>
+  </row>
+  <row>
+    <STORE_NM>바다향기</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-7</RM>
+  </row>
+  <row>
+    <STORE_NM>한과</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-7</RM>
+  </row>
+  <row>
+    <STORE_NM>손만두</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-25</RM>
+  </row>
+  <row>
+    <STORE_NM>섹시한 떡볶이 앤 꼬마김밥</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-36</RM>
+  </row>
+  <row>
+    <STORE_NM>광명상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-36</RM>
+  </row>
+  <row>
+    <STORE_NM>국산멸치</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-37</RM>
+  </row>
+  <row>
+    <STORE_NM>샘미나물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>금성상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-38</RM>
+  </row>
+  <row>
+    <STORE_NM>호수나물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>바다맛수산(2)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-40</RM>
+  </row>
+  <row>
+    <STORE_NM>유천상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-41</RM>
+  </row>
+  <row>
+    <STORE_NM>추억의과자</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-41</RM>
+  </row>
+  <row>
+    <STORE_NM>뿌리세상</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-41</RM>
+  </row>
+  <row>
+    <STORE_NM>대우축산앞자리</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-41</RM>
+  </row>
+  <row>
+    <STORE_NM>현우봉투</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>만나웰빙</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명3동 158-52</RM>
+  </row>
+  <row>
+    <STORE_NM>착한축산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광이로13번길 21-11</RM>
+  </row>
+  <row>
+    <STORE_NM>빵빵한생선</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>돼지상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-53</RM>
+  </row>
+  <row>
+    <STORE_NM>다영유통 3</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-53</RM>
+  </row>
+  <row>
+    <STORE_NM>야채호떡</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>산골쌀마을</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-2</RM>
+  </row>
+  <row>
+    <STORE_NM>신광명수산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>장군축산도매센타</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로964번길 4</RM>
+  </row>
+  <row>
+    <STORE_NM>무침프로젝트 홍어</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>달봉이네두부</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-16</RM>
+  </row>
+  <row>
+    <STORE_NM>광명진 설렁탕</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-18</RM>
+  </row>
+  <row>
+    <STORE_NM>장보옥수제돈가스</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-18</RM>
+  </row>
+  <row>
+    <STORE_NM>클로렐라베이커리</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-19</RM>
+  </row>
+  <row>
+    <STORE_NM>애솔촌찌개마을</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-19</RM>
+  </row>
+  <row>
+    <STORE_NM>진미식품</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-19</RM>
+  </row>
+  <row>
+    <STORE_NM>바다맛수산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-40</RM>
+  </row>
+  <row>
+    <STORE_NM>뚝배기 반찬</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-23</RM>
+  </row>
+  <row>
+    <STORE_NM>돼지상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-23</RM>
+  </row>
+  <row>
+    <STORE_NM>한우밭정육점</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-24</RM>
+  </row>
+  <row>
+    <STORE_NM>양지곰탕</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>안심한우전문매장</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136 - 10</RM>
+  </row>
+  <row>
+    <STORE_NM>옛날칼국수</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>명성왕족발</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로964번길 14-1</RM>
+  </row>
+  <row>
+    <STORE_NM>낙원견과류</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로 964번길 14-1</RM>
+  </row>
+  <row>
+    <STORE_NM>세일나물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-12</RM>
+  </row>
+  <row>
+    <STORE_NM>장릉왕 떡갈비</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-12</RM>
+  </row>
+  <row>
+    <STORE_NM>도래울부대찌개</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-13</RM>
+  </row>
+  <row>
+    <STORE_NM>탕탕탕</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-14</RM>
+  </row>
+  <row>
+    <STORE_NM>대박이네야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-15</RM>
+  </row>
+  <row>
+    <STORE_NM>대박과일</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-15</RM>
+  </row>
+  <row>
+    <STORE_NM>광명건강센터</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 136-17</RM>
+  </row>
+  <row>
+    <STORE_NM>경성찹쌀꽈배기</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로964번길 22</RM>
+  </row>
+  <row>
+    <STORE_NM>아들내미 떡볶이</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로964번길 22-1</RM>
+  </row>
+  <row>
+    <STORE_NM>신나라야채2</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-1</RM>
+  </row>
+  <row>
+    <STORE_NM>다영유통 2</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-62</RM>
+  </row>
+  <row>
+    <STORE_NM>걸하우스</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>천기초</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>진미보쌈 앞 건어물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>진미보쌈 앞 신사복바지</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>리치랜드</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명로 918번길 8-1</RM>
+  </row>
+  <row>
+    <STORE_NM>엄마전</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-29</RM>
+  </row>
+  <row>
+    <STORE_NM>엄마전 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-29</RM>
+  </row>
+  <row>
+    <STORE_NM>광명축산물도매센타</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-30</RM>
+  </row>
+  <row>
+    <STORE_NM>담양상회</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 140-11호</RM>
+  </row>
+  <row>
+    <STORE_NM>박보성의수제돈가스</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-1306</RM>
+  </row>
+  <row>
+    <STORE_NM>광명상회건어물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>설악건강원</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>설악건강원 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>신데렐라 신발</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>밀라노</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>선진상회(쌍둥이네)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-65</RM>
+  </row>
+  <row>
+    <STORE_NM>화영식품(건강식품)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-65</RM>
+  </row>
+  <row>
+    <STORE_NM>가방(액세서리)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-64</RM>
+  </row>
+  <row>
+    <STORE_NM>서울마님죽(4구간)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>도그버디</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로 974</RM>
+  </row>
+  <row>
+    <STORE_NM>한순자네</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>동광축산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>뷰티마트앞 더덕</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>뷰티마트앞 호떡</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-17</RM>
+  </row>
+  <row>
+    <STORE_NM>토니모리앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>우리할인마트</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 오리로 976, 101호</RM>
+  </row>
+  <row>
+    <STORE_NM>백두산여행사앞 국가대표과일촌</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-84</RM>
+  </row>
+  <row>
+    <STORE_NM>가마꿉</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>총각네젓갈</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>진미보쌈</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-27</RM>
+  </row>
+  <row>
+    <STORE_NM>광명금매입(길미 앞)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 158-27</RM>
+  </row>
+  <row>
+    <STORE_NM>빈대떡 신사</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-8</RM>
+  </row>
+  <row>
+    <STORE_NM>밥도둑.찬도둑</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>삼천포수산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>계란빵</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>마른생선</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>청지기 과일</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-7</RM>
+  </row>
+  <row>
+    <STORE_NM>금산고려인삼 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>삼거리부산상회(야채)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>삼거리부산상회(생선)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>자연이랑옥수수랑</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>못난이왕만두도너츠 2</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>광명축산물도매센타(정희네)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>트라이 할인매장</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>반찬천국(홍어,깻잎)</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>나나약국</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 150-50.51</RM>
+  </row>
+  <row>
+    <STORE_NM>나나약국 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>와우축산</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>형권이네과일</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>양심 정육점</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 140-20</RM>
+  </row>
+  <row>
+    <STORE_NM>광명호떡</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>야채</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>진용콜랙션</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 140-8</RM>
+  </row>
+  <row>
+    <STORE_NM>이모네왕대포 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>김우애 머리방</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>자연촌</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 139-7</RM>
+  </row>
+  <row>
+    <STORE_NM>맥반석김구이</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-8</RM>
+  </row>
+  <row>
+    <STORE_NM>서당골 앞</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+  <row>
+    <STORE_NM>오감만족</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM>광명시 광명3동 138-8</RM>
+  </row>
+  <row>
+    <STORE_NM>파리바게트옆건어물</STORE_NM>
+    <CLASS_NM></CLASS_NM>
+    <RM></RM>
+  </row>
+</전통시장상점현황>
+
