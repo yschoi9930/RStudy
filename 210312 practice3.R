@@ -28,7 +28,7 @@ str(station_data)
 
 # 지하철역 위경도 얻어오기
 # goolge api 키 등록
-register_google(key='AIzaSyC0M_EwsFiv5BFpfNULew2rmlWr4W9Amew')
+register_google(key='')
 # station_data 구 주소 열값을 이용해 위경도 추출
 station_code <-geocode(as.character(station_data$구주소))
 
